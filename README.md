@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 你好！我是 FDMNya~
 
-<!--
-**fudengming/fudengming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名对编程感兴趣的中学生，但是技术很菜 💀
 
-Here are some ideas to get you started:
+## 🖥 正在开发 / 计划中的项目
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [ReNeBan](https://github.com/NekoiMeiov/astrbot_plugin_reneban)
+**状态：** 开发中 v1.2.0  
+一个为 AstrBot 设计的简易黑名单插件，正在添加对会话的禁用功能  
+💡 *搭配更细粒度的解禁命令，可以实现在该会话中只有部分用户可以使用*
+
+## 📋 未来规划
+> 以下项目还在构思阶段，欢迎交流想法～
+
+### UPersonaInject
+- **概念：** 用户侧人物设定注入
+- **功能：** 自定义用户称呼、网络形象等个性化配置
+- **状态：** 🐟 搁置中（可能看起来有点鸡肋？）
+
+### RGProbers
+- **愿景：** 通用的 AstrBot 音游查分插件
+- **挑战：** 架构设计出不来，理想很丰满，现实很骨感
+- **状态：** 🐟 搁置中
+
+### CayLLMs
+- **目标：** LLM 功能大整合
+- **包含功能：**
+  - 内容审查
+  - 长期记忆
+  - 用户期望管理
+  - 聊天记录删除
+  - 回答重新生成
+  - 还有更多...
+- **现状：** 插件市场现有方案还能凑合用，先拖亿亿亿会 🐟🐟🐟
+
+## 📱 在线时间
+| 时间段 | 时间 |
+|--------|------|
+| **工作日** | 11:50-13:50、17:50-18:30 |
+| **特殊安排** | 周一 19:00-20:00、周二/四 14:30-15:30（学校机房课，在写代码） |
+| **休息日** | 14:30-次日 01:30 *（都周末了熬会夜怎么了？）* |
+
+## ☎️ 联系方式
+📧 **E-Mail：** [fdmnya@fdmnya.top](mailto:fdmnya@fdmnya.top)
+
+---
+
+🤖 *该个人介绍由 AI 润色*
