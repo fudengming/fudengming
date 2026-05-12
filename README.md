@@ -53,7 +53,7 @@
 
 📺 **Bilibili：**[翎羽_FDMNya](https://space.bilibili.com/569945370)
 
-🐧 **QQ 群：**[1012377867](mqqapi://card/show_pslcard?uin=1012377867&card_type=group)
+🐧 **QQ 群：**[1012377867](http://url.fdmnya.top/yWgW7)
 
 ‌
 
