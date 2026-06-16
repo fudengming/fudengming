@@ -8,12 +8,10 @@
 
 ### Detuning
 “绑定于意识频率的世界正在不断崩塌”
-“而我们需要你。”
-
+“而我们需要你。” 
 ■庯锝綁■锝綍旓■絽■わ■锛緥■涔■辫澶
 
-**状态：** 开发中
-
+**状态：** 开发中 
 《Detuning》是由第零波峰工作室（Zeroth Peak）与 NekoiMeiov_Team 联合出品的《Project DeTuning》ARG 同人非商业音乐游戏
 
 ### [ReNeBan](https://github.com/NekoiMeiov/astrbot_plugin_reneban)
