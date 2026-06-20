@@ -11,7 +11,7 @@
 “而我们需要你。”<br>
 ■庯锝綁■锝綍旓■絽■わ■锛緥■涔■辫澶
 
-**状态：** 开发中<br>
+**状态：** 开发中（高优先级）<br>
 《Detuning》是由第零波峰工作室（Zeroth Peak）与 [NekoiMeiov_Team](https://github.com/NekoiMeiov) 联合出品的《Project DeTuning》ARG 同人非商业音乐游戏
 
 ### [ReNeBan](https://github.com/NekoiMeiov/astrbot_plugin_reneban)
