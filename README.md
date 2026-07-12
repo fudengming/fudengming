@@ -15,7 +15,7 @@
 《Detuning》是由第零波峰工作室（Zeroth Peak）与 [NekoiMeiov_Team](https://github.com/NekoiMeiov) 联合出品的《Project DeTuning》ARG 同人非商业音乐游戏
 
 ### [ReNeBan](https://github.com/NekoiMeiov/astrbot_plugin_reneban)
-**状态：** 开发中 v1.2.0  
+**状态：** 正常维护中 v1.2.0  
 一个为 AstrBot 设计的简易黑名单插件，正在添加对会话的禁用功能  
 💡 *搭配更细粒度的解禁命令，可以实现在该会话中只有部分用户可以使用*
 
